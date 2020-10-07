@@ -30,7 +30,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Arial', sans-serif;
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
@@ -121,7 +121,7 @@ header.masthead {
   height: 4rem;
   width: 4rem;
   background-color: #6c757d;
-  color: #f8f9fa;
+  color: #fc8dc4;
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
@@ -153,7 +153,7 @@ header.masthead {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: #fbf3fc;
+  color: #fc8dc4;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: #93ada4;
@@ -326,12 +326,12 @@ header.masthead {
   color: #fc8dc4;
   font-weight: 700;
   letter-spacing: 0.0625em;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Arial', sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 0.95rem;
-  color: #fbf3fc;
+  color: #fc8dc4;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active{
