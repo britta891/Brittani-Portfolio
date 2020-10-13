@@ -14,10 +14,10 @@ hr {
 }
 
 a {
-  color: #fbf3fc;
+  color: #db44a1;
 }
 a:hover {
-  color: #93ada4;
+  color: #8f6ce0;
   text-decoration: none;
 }
 
@@ -131,7 +131,7 @@ header.masthead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #dc7646;
+  background-color: #8c46dc;
 }
 
 .dev-icons {
@@ -156,7 +156,7 @@ header.masthead {
   color: #fc8dc4;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-  color: #93ada4;
+  color: #9259d3;
 }
 .navbar-dark .navbar-nav .nav-link.disabled {
   color: rgba(255, 255, 255, 0.25);
@@ -165,7 +165,7 @@ header.masthead {
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #93ada4;
+  color: #9542e2;
 }
 .navbar-dark .navbar-toggler {
   color: rgba(255, 255, 255, 0.5);
@@ -181,7 +181,7 @@ header.masthead {
   color: #fff;
 }
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
-  color: #93ada4;
+  color: #8f4be9;
 }
 
 /* Button Styling */
@@ -194,18 +194,18 @@ header.masthead {
 
 .btn-primary:hover {
   color: #f8f9fa;
-  background-color: #93ada4;
+  background-color: #d9cae9;
   border-color:#93ada4;
 }
 .btn-primary:focus, .btn-primary.focus {
-  color: #bfdbcf;
-  background-color: #93ada4;
+  color: #d9cae9;
+  background-color: #d9cae9;
   border-color: #93ada4;
 
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
-  color: #bfdbcf;
-  background-color: #93ada4;
+  color: #d9cae9;
+  background-color: #d9cae9;
   border-color: #93ada4;
 }
 .btn-outline-primary {
@@ -339,7 +339,7 @@ header.masthead {
 } 
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fc8dc4;
+  color: #c91870;
 }
 
 @media (min-width: 992px) {
